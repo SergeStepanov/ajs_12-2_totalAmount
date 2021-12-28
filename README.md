@@ -1,0 +1,1 @@
+# ajs_12-2_totalAmount
